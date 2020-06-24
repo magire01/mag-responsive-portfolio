@@ -35,3 +35,16 @@ button {
 img {
     margin: 2%
 }
+
+.input-name {
+    width: 500px;
+}
+
+.input-email {
+    width: 500px;
+}
+
+.input-message {
+    width: 500px;
+    height: 500px;
+}
