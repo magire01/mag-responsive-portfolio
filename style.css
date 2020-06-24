@@ -1,5 +1,33 @@
 /* test css  */
 
 body {
-    background-color: blue;
+    background-color: #edfdff;
+}
+
+#main-content {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 20%;
+    
+}
+
+header {
+    color: #207e8a;
+    border-bottom: 5px;
+    border-color: black;
+}
+
+button {
+    background-color: #207e8a;
+    color: white;
+}
+
+.footer-box {
+    margin-top: 100%;
+    float: bottom;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
