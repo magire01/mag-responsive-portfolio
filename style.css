@@ -108,6 +108,8 @@ textarea {
     height: 500px;
 }
 
+/* Smartphone device */
+
 @media all and (max-width: 600px) {
     .container {
         width:  400px;
