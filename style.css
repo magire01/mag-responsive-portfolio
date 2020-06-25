@@ -48,3 +48,17 @@ img {
     width: 500px;
     height: 500px;
 }
+
+.navbar-nav {
+    align-items: right;
+}
+
+#content-row {
+    display: inline-block;
+    
+}
+
+.image-wrap {
+    float: left;
+    margin: 10px;
+}
