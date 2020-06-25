@@ -11,9 +11,15 @@ body {
 }
 
 header {
-    color: #207e8a;
+    background-color: #207e8a;
+    color: white;
     border-bottom: 5px;
     border-color: black;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 20px;
 }
 
 button {
@@ -22,7 +28,7 @@ button {
 }
 
 .footer-box {
-    margin-top: 100%;
+    margin-top: 15%;
     float: bottom;
     background-color: grey;
     color: white;
@@ -32,7 +38,8 @@ button {
 }
 
 img {
-    margin: 2%
+    margin: 15px 15px 15px 15px;
+
 }
 
 .input-name {
@@ -48,9 +55,6 @@ img {
     height: 500px;
 }
 
-.navbar-nav {
-    align-items: right;
-}
 
 #content-row {
     display: inline-block;
@@ -97,4 +101,29 @@ img {
 
 .p-2 {
     font-size: 20px;
+}
+
+textarea {
+    width: 500px;
+    height: 500px;
+}
+
+@media all and (max-width: 600px) {
+    .container {
+        width:  400px;
+    }
+    .col-md-12 p {
+        font-size: 20px;
+    }
+    .col-md-12 a {
+        font-size: 20px;
+    }
+    .flex-row img {
+        width: 250px;
+        height: 250px;
+    }
+    .col-md-6 img {
+        width: 250px;
+        height: 250px;
+    }
 }
