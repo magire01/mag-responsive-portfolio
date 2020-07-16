@@ -1,4 +1,6 @@
 # mag-responsive-portfolio
+<h1> Mark Gire's Portfolio </h1>
+<h5> Updated 7/15/2020 - added Resume, Github, and Linked in Links to "About me" page and updated portfolio page. </h5>
 <br>
 This site was created to display Mark Gire's portfolio and contact information.
 <br>
